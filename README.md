@@ -2,25 +2,33 @@
 
 # Gaurav Singh
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=EE4B8C&center=true&vCenter=true&width=620&lines=Full+Stack+Laravel+Developer;Bagisto+%26+Krayin+CRM+Expert;Multi-Tenant+SaaS+Architect;AI-First+Development+Workflow)](https://github.com/23gauravS)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=EE4B8C&center=true&vCenter=true&width=620&lines=Laravel+Developer+at+Webkul;Bagisto+%26+Krayin+CRM+Expert;Multi-Tenant+SaaS+Architect;AI-First+Development+Workflow)](https://github.com/mai-gaurav-2311)
 
-![Profile Views](https://komarev.com/ghpvc/?username=23gauravS&style=flat-square&color=EE4B8C)
+[![GitHub followers](https://img.shields.io/github/followers/mai-gaurav-2311?style=flat-square&logo=github&label=Followers&color=EE4B8C)](https://github.com/mai-gaurav-2311?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=mai-gaurav-2311&style=flat-square&color=EE4B8C)
 
 </div>
 
 ## About Me
 
-I am a passionate full-stack developer with over 4+ years of experience in building innovative web applications and robust backend systems. I work primarily in the Laravel ecosystem — designing multi-tenant SaaS platforms, REST and GraphQL APIs, and modular packages that stay compatible across framework releases. I specialize in modern web technologies and excel at transforming complex challenges into elegant, efficient solutions.
+I am a Laravel developer at **Webkul Technology Pvt. Ltd.** in Noida with more than four years of experience building web applications and backend systems. I work primarily in the Laravel ecosystem — designing multi-tenant SaaS platforms, REST and GraphQL APIs, and modular packages that stay compatible across framework releases. I enjoy turning complex requirements into clean, maintainable solutions.
 
 ### 🚀 Professional Profile
 
 - **Experience:** 4+ years in software development
+- **Current role:** Laravel Developer at Webkul Technology Pvt. Ltd., Noida
 - **Expertise:** Full-stack web development, Bagisto & Krayin CRM ecosystems
 - **Architecture:** Multi-tenant SaaS — database-per-tenant provisioning, filesystem tenancy and per-tenant configuration
 - **Engineering:** Pest, PHPUnit and Playwright test suites wired into GitLab CI and GitHub Actions pipelines
 - **Performance:** Redis caching, LiteSpeed page cache and Eloquent query optimisation for high-traffic storefronts
 - **Open Source:** Contributor to Bagisto core and its LiteSpeed Cache and OAuth Razorpay packages
 - **Focus:** Delivering scalable, high-performance digital solutions with an AI-first workflow
+
+## 🛠️ Featured Project
+
+### [Bagisto Delivery Instructions](https://github.com/mai-gaurav-2311/task-bagisto)
+
+A Bagisto checkout enhancement that lets customers add delivery instructions while placing an order. The public repository is built primarily with PHP and Blade, with JavaScript and CSS supporting the storefront experience.
 
 ## 💡 Technical Expertise
 
@@ -44,11 +52,15 @@ I am a passionate full-stack developer with over 4+ years of experience in build
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=23gauravS&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=mai-gaurav-2311&theme=radical&hide_border=true)
 
 ![Metrics](./github-metrics.svg)
 
-![Snake animation](https://raw.githubusercontent.com/23gauravS/23gauravS/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mai-gaurav-2311/mai-gaurav-2311/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mai-gaurav-2311/mai-gaurav-2311/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mai-gaurav-2311/mai-gaurav-2311/output/github-snake.svg">
+</picture>
 
 </div>
 
@@ -72,7 +84,7 @@ I am a passionate full-stack developer with over 4+ years of experience in build
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/23gauravS)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mai-gaurav-2311)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravsingh.laravel820@webkul.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/gaurav-singh-131542208)
 
